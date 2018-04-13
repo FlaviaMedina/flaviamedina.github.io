@@ -14,6 +14,22 @@ body {
   margin: 0;
 }
 
+#main-content {
+	margin:0 auto;
+}
+
+#left-column {
+	width:300px;
+	padding:0 30px 30px;
+	float:left;
+}
+
+.box {
+	background:#f7f7f7;
+	border:1px solid #f0e9eb;
+	padding:15px;
+}
+
 a {
   color: #204156;
   text-decoration: none;
