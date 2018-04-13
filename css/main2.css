@@ -19,13 +19,12 @@ body {
 }
 
 #left-column {
-	width:250px;
+	width:500px;
 	padding:0 10px 10px;
 	float:left;
 }
 
 .box {
-	background:	#FFEFD5;
 	border:1px solid #f0e9eb;
 	padding:15px;
 }
