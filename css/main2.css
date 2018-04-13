@@ -14,32 +14,34 @@ body {
   margin: 0;
 }
 
-#main-content {
-	margin:0 auto;
+code {
+  background: #2db34a;
+  border-radius: 6px;
+  color: #fff;
+  display: block;
+  font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+  padding: 24px 15px;
+  text-align: center;
 }
-
-#left-column {
-	width:500px;
-	padding:0 10px 10px;
-	float:left;
+header,
+section,
+aside,
+footer {
+  margin: 0 1.5% 24px 1.5%;
 }
-
-.box {
-	border:1px solid #f0e9eb;
-	background-color: ##FFEFD5;
-	padding:15px;
-}
-
 section {
   float: left;
-  margin: 0 1.5%;
   width: 63%;
 }
 aside {
   float: right;
-  margin: 0 1.5%;
   width: 30%;
 }
+footer {
+  clear: both;
+  margin-bottom: 0;
+}
+
 
 a {
   color: #204156;
