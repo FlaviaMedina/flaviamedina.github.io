@@ -30,6 +30,17 @@ body {
 	padding:15px;
 }
 
+section {
+  float: left;
+  margin: 0 1.5%;
+  width: 63%;
+}
+aside {
+  float: right;
+  margin: 0 1.5%;
+  width: 30%;
+}
+
 a {
   color: #204156;
   text-decoration: none;
