@@ -166,6 +166,8 @@ a {
 
 .gallery-item .thumbnail {
   border: 5px solid #fff;
+  width:320px;
+  height: 212px;
 }
 
 /* FOOTER NAVIGATION */
