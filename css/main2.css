@@ -13,15 +13,12 @@ body {
   background-size: cover;
   margin: 0;
 }
-
-
-
-#wrapper {
-	margin:0 auto;
-	width:632px;
-	border-left:1px solid #f0e9eb;
-	border-right:1px solid #f0e9eb;
+.page-title {
+  text-align: center;
+  font-weight: 100;
+  font-size:50px
 }
+
 
 #header {
 	margin:0 1px;
@@ -146,12 +143,6 @@ ul {
 a {
   color: #204156;
   text-decoration: none;
-}
-
-.page-title {
-  text-align: center;
-  font-weight: 100;
-  font-size:50px
 }
 
 .page-description {
